@@ -1,33 +1,43 @@
-Software Engineer - Tech Lead at Igarle Group
+# David Villaba López
 
-Lover of the big professional challenges, especially the really challenging ones, those destined to change things as we know them.
+  Senior Software Engineer with 19 years of experience building enterprise systems and AI-powered solutions. Currently at Oracle NetSuite, designing and shipping AI agent
+  architectures and RAG pipelines integrated into enterprise business logic. Led teams across security platforms, cloud SaaS, and ERP systems. Rated Outstanding (5/5) in 2024 and
+  2025, recognized for delivering at Principal Engineer level.
 
-Developer of all kinds of software: Desktop, Servers, Mobile, Web, Databases, Machine Learning…
+  ## What I'm working on
 
-Find me here:
+  - AI agent architectures for enterprise workflows
+  - RAG systems with production-grade retrieval and evaluation
+  - MCP-powered developer tools for enterprise integration
+  - LLM-native applications with Anthropic and OpenAI APIs
 
-- www.linkedin.com/in/davidvillaba
-- https://davidvillaba.net/
-- My Experience:
-    - NET C# -> +16 YEARS
-    - SQL (PostgreSQL + SQLServer + Oracle) -> +16 YEARS
-    - WPF + WCF -> +12 YEARS
-    - Microservices & API Design -> + 7 YEARS
-    - Xamarin -> + 5 YEARS
-    - ASP.NET WebAPI -> +5 YEARS
-    - ASP.NET CORE -> +2 YEARS
-    - Python -> +2 YEARS
-    - Tensoflow (Keras) -> +2 YEARS
-    - Docker -> +1 YEAR
-    - Kubernetes -> +1 YEAR
-    - KAFKA -> +1 YEAR
-    - RabbitMQ -> +1 YEAR
-    - SCRUM & KANVAS -> +5 YEARS
-    - TFS -> +10 YEARS
-    - GIT -> +4 YEARS
+  ## Tech Stack
 
+  **Languages:** .NET/C#, Java, TypeScript, Python, SQL
 
-<!---
-dvillaba/dvillaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  **AI & ML:** LLM APIs, RAG, Vector Databases, Prompt Engineering, AI Agent Architecture, Claude Code, Codex CLI, Anthropic API, OpenAI API
+
+  **Developer Tools:** MCP Protocol, SDK Development, API Design
+
+  **Databases:** PostgreSQL, SQL Server, Oracle, Kafka, ETL
+
+  **Frameworks:** React, ASP.NET Core, REST APIs, Xamarin, Node.js
+
+  **Infrastructure:** Docker, Kubernetes, CI/CD, Git, Cloud Architecture
+
+  ## Experience
+
+  - **Senior Software Engineer II** @ Oracle NetSuite (2024–Present)
+  - **Senior Software Engineer** @ Oracle NetSuite (2022–2024)
+  - **Tech Lead** @ Igarle Group (2017–2022)
+  - **Senior Software Engineer** @ Dorlet Group (2009–2017)
+
+  ## Education
+
+  - **Computer Science Engineering** — Deusto University
+  - **Big Data & Machine Learning Bootcamp (650h)** — KeepCoding
+
+  ## Connect
+
+  - **LinkedIn:** [linkedin.com/in/davidvillaba](https://www.linkedin.com/in/davidvillaba)
+  - **Email:** dvillaba@protonmail.com
